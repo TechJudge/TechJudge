@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechJudge
+- 👋 Hi, I’m @TechJudgeTrish
 -  :)  My Bachelor's is in IT, but since my job won't move me from the file room, I am using the time to learn coding, so I can be more than IT repair chic.
 - 👀 I’m interested in: Learning what I can about coding, IT, app and web design, gaming, new tech, old tech
 - 🌱 I’m currently learning: C
