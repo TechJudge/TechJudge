@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechJudgeTrish
+- 👋 Hi, I’m Trish
 - :) Got My Bachelor's is in IT, but since my job won't move me from the file room, I am using the time to learn coding, which I am more interested in than repair.
 - 👀 I’m interested in: Learning what I can about coding, IT, app and web design, gaming, new tech, old tech.
 - 🌱 I’m currently learning: HTML, CSS, JS, GIT
